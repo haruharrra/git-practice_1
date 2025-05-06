@@ -1,2 +1,5 @@
 Hello, feature!
+ HEAD
 Conflict change 2
+Conflict change 1
+conflict-branch
